@@ -32,7 +32,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/enisozen/plustv-omarchy-kit">
-        <img src="https://raw.githubusercontent.com/enisozen/plustv-omarchy-kit/master/config/omarchy/themes/plus-tv/preview.png" alt="Plus TV Smart TV Kit" width="100%" />
+        <img src="https://raw.githubusercontent.com/enisozen/plustv-omarchy-kit/master/config/omarchy/themes/plus-tv/preview-plustv.png" alt="Plus TV Smart TV Kit" width="100%" />
       </a>
       <br />
       <b>📺 <a href="https://github.com/enisozen/plustv-omarchy-kit">Plus TV & Omarchy Smart TV Kit</a></b>
