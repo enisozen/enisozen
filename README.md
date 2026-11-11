@@ -19,7 +19,18 @@
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
+      <a href="https://github.com/enisozen/omarchy-steamos-kit">
+        <img src="https://raw.githubusercontent.com/enisozen/omarchy-steamos-kit/master/screenshots/steamos-desktop.png" alt="SteamOS Desktop Kit" width="100%" />
+      </a>
+      <br />
+      <b>🎮 <a href="https://github.com/enisozen/omarchy-steamos-kit">SteamOS Kit for Omarchy</a></b>
+      <br />
+      <sub>Dedicated SteamOS Desktop • Modular Glassmorphic Widgets • Big Picture Mode Integration</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Kit-SteamOS%203.6-00e5ff?style=flat-square" />
+    </td>
+    <td width="50%" align="center">
       <a href="https://github.com/enisozen/plustv-omarchy-kit">
         <img src="https://raw.githubusercontent.com/enisozen/plustv-omarchy-kit/master/config/omarchy/themes/plus-tv/preview.png" alt="Plus TV Smart TV Kit" width="100%" />
       </a>
@@ -32,7 +43,9 @@
         <img src="https://img.shields.io/badge/Release-v1.0.0-ff2a4b?style=flat-square" />
       </a>
     </td>
-    <td width="33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <a href="https://github.com/enisozen/omarchy-smurfs-theme">
         <img src="https://raw.githubusercontent.com/enisozen/omarchy-smurfs-theme/main/preview.png" alt="The Smurfs Theme" width="100%" />
       </a>
@@ -45,7 +58,7 @@
         <img src="https://img.shields.io/badge/Release-v1.0.0-0095ff?style=flat-square" />
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/enisozen/omarchy-digiturk-theme">
         <img src="https://raw.githubusercontent.com/enisozen/omarchy-digiturk-theme/main/preview.png" alt="Digiturk Theme" width="100%" />
       </a>
@@ -67,19 +80,25 @@
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
+      <a href="https://github.com/enisozen/omarchy-steamos-kit">
+        <img src="https://raw.githubusercontent.com/enisozen/omarchy-steamos-kit/master/screenshots/steamos-unlock.png" width="100%" />
+      </a>
+      <sub><b>SteamOS Unlock Screen</b></sub>
+    </td>
+    <td width="25%" align="center">
       <a href="https://github.com/enisozen/plustv-omarchy-kit">
         <img src="https://raw.githubusercontent.com/enisozen/plustv-omarchy-kit/master/config/omarchy/themes/plus-tv/preview-unlock.png" width="100%" />
       </a>
       <sub><b>Plus TV Unlock Screen</b></sub>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/enisozen/omarchy-smurfs-theme">
         <img src="https://raw.githubusercontent.com/enisozen/omarchy-smurfs-theme/main/preview-unlock.png" width="100%" />
       </a>
       <sub><b>The Smurfs Unlock Screen</b></sub>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/enisozen/omarchy-digiturk-theme">
         <img src="https://raw.githubusercontent.com/enisozen/omarchy-digiturk-theme/main/preview-unlock.png" width="100%" />
       </a>
@@ -93,14 +112,17 @@
 ## ⚡ One-Command Quick Install on Omarchy Linux
 
 ```bash
+# 🎮 Install SteamOS Desktop Environment Kit
+git clone https://github.com/enisozen/omarchy-steamos-kit.git && cd omarchy-steamos-kit && ./install.sh
+
+# 📺 Install Plus TV & Smart TV Remote Control Kit
+git clone https://github.com/enisozen/plustv-omarchy-kit.git && cd plustv-omarchy-kit && ./install.sh
+
 # 🍄 Install The Smurfs Theme
 omarchy theme install https://github.com/enisozen/omarchy-smurfs-theme
 
 # 🎬 Install Digiturk × beIN CONNECT Theme
 omarchy theme install https://github.com/enisozen/omarchy-digiturk-theme
-
-# 📺 Install Plus TV & Smart TV Remote Control Kit
-git clone https://github.com/enisozen/plustv-omarchy-kit.git && cd plustv-omarchy-kit && ./install.sh
 ```
 
 <img src="assets/divider.svg" width="100%" />
